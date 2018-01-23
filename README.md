@@ -11,3 +11,6 @@ Facenet is based on learning a Euclidean embedding per image using deep convolut
 Once this embedding has been produced, then the aforementioned tasks become straight-forward: face verification simply involves thresholding the distance between the two embeddings; recognition becomes a k-NN classification problem, and clustering can be achieved using off-theshelf techniques such as k-means or agglomerative clustering. 
 
 [Complete Post is Here](https://www.linkedin.com/pulse/real-time-face-recognition-using-facenet-ishwar-sawale/)
+
+
+预训练模型到facenet的项目中下载
